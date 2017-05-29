@@ -52,9 +52,10 @@
     <button id="rew" onclick="skip(-2)">&lt;&lt;</button>
     <button id="play" onclick="vidplay()">&gt;</button>
     <button id="fastFwd" onclick="skip(2)">&gt;&gt;</button>
-	</div>         
-	*/
+	</div>  
 	//echo 'Hello ' . htmlspecialchars($_GET["name"]) . '!';
+	*/
+	
 	?>
 	<video id="Video1" class="center" controls="" autoplay="" name="media">
 	<source src="https://a.safe.moe/EGjYq.mp4" type="video/mp4">
