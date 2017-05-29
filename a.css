@@ -1,0 +1,8 @@
+.center {
+    display: block;
+    margin: auto;
+}
+video{
+    max-height: 100%;
+    max-width: 100%;
+}
