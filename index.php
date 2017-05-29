@@ -52,7 +52,7 @@
 	?>
 	<video id="Video1" class="center" controls="" autoplay="" name="media">
 	<source src="https://a.safe.moe/EGjYq.mp4" type="video/mp4">
-	<track label="Português" kind="subtitles" srclang="pt" src="captions/vtt/s5e1.vtt" default>
+	<track label="Português" kind="subtitles" srclang="pt" src="https://raw.githubusercontent.com/l9q5/stvnnvrs/master/captions/vtt/s5e1.vtt" default>
 	</video>
 
 
