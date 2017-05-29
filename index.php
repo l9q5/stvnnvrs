@@ -52,8 +52,7 @@
 	?>
 	<video id="Video1" class="center" controls="" autoplay="" name="media">
 	<source src="https://a.safe.moe/EGjYq.mp4" type="video/mp4">
-	<track label="English" kind="subtitles" srclang="en" src="captions/vtt/s5e1.vtt" default>
-	<a href="demo.mp4">Download the video</a> file.
+	<track label="Português" kind="subtitles" srclang="pt" src="captions/vtt/s5e1.vtt" default>
 	</video>
 
 
