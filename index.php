@@ -53,7 +53,7 @@
     <button id="play" onclick="vidplay()">&gt;</button>
     <button id="fastFwd" onclick="skip(2)">&gt;&gt;</button>
 	</div>  
-	//echo 'Hello ' . htmlspecialchars($_GET["name"]) . '!';
+	echo 'Hello ' . htmlspecialchars($_GET["name"]) . '!';
 	*/
 	
 	?>
